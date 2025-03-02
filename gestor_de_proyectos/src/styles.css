@@ -1,0 +1,13 @@
+html{
+    position:relative;
+    min-height: 100%;
+}
+
+body{
+    margin-bottom: 60px
+}
+
+.wrap{
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
